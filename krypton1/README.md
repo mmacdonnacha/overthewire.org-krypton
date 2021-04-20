@@ -46,7 +46,12 @@ the cipher text.
 Enjoy!
 ```
 
-According to the README the contents of **krypton2** is encrypted using a rotation cipher called ROT13. A becomes N, B becomes O, ... Y becomes L, Z becomes M.
+According to the README the contents of **krypton2** is encrypted using a rotation cipher called ROT13.  
+A becomes N,  
+B becomes O,  
+...  
+Y becomes L,  
+Z becomes M.
 
 Using the **tr** command we can reverse the ROT13 and get the decrypted contents of **krypton2**.
 
